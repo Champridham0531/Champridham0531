@@ -1,5 +1,3 @@
-**Upgraded Interactive LinkedIn “About” Section**
-
 👋 Hey there! I’m Ridham Shah, a tech explorer and student, currently mastering Java, Python, and C. Every day, I’m tackling new coding challenges, building fun projects, and learning how software shapes our world.
 
 🌱 My journey is all about growth, curiosity, and connecting with fellow learners.  
